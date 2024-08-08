@@ -21,3 +21,6 @@ lua
 https://github.com/kevinresol/hxvm-lua
 
 
+# Embed hashlink
+
+https://community.haxe.org/t/calling-haxe-constructor-from-c-c-with-embedded-hashlink/2855/4
